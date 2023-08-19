@@ -1,2 +1,2 @@
 # php-plugins
-practiciting new things with php
+practiciting random things with php
